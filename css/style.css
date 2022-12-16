@@ -145,7 +145,7 @@ html{
     .header .navbar a{
         margin: 2.5rem;
         text-align: center;
-        display: block;
+        display: flexbox;
         font-size: 2rem;
     }
 }
